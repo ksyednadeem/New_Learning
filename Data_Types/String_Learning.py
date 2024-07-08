@@ -3,7 +3,7 @@
 # This is to practice string data types
 # """
 #
-# str='ETL Automation Testing'
+str='ETL Automation Testing'
 #
 # # this will count the occurance of character
 #
@@ -51,15 +51,29 @@
 # print(txt.zfill(9))
 #
 # #['ETL', 'Automation', 'Testing']
+
+#print(str.expandtabs(6))
+# txt = "welcome to the jungle"
+# # split
+# x = txt.split()
+# print(x)
 #
-# print(str.split())
 #
-# print(str.expandtabs(6))
+st=' Testing 1'
+#
+# print("it is alphanumri ",st.isalnum())
+
+print(st.isascii())
+print("is demical",st.isdecimal())
+print(st.lstrip())
+print(st.rstrip())
+print(" it will trim spaces",st.strip())
+print("it will replace char",st.replace('e','a'))
+print("it will swap cases from small to big",st.swapcase())
+print("first char of each word will caps ",str.title())
 
 
-st='Testing 1'
 
-print("it is alphanumri ",st.isalnum())
 
 
 
