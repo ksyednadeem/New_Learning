@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb62c67-6bcf-4d5e-85ce-6c4bb9a25a73" name="Changes" comment="commit changes" />
+    <list default="true" id="4cb62c67-6bcf-4d5e-85ce-6c4bb9a25a73" name="Changes" comment="commit changes">
+      <change afterPath="$PROJECT_DIR$/Data_Types/str_Prac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Types/String_Learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Types/String_Learning.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ksyednadeem"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ksyednadeem/New_Learning",
+    "accountId": "ce77b23f-1312-4da7-a2df-703be4cf0204"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -129,7 +144,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720456353127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit changes">
+      <option name="closed" value="true" />
+      <created>1720456480220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720456480220</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit changes">
+      <option name="closed" value="true" />
+      <created>1720458162653</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720458162653</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
