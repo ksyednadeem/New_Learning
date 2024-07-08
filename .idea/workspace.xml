@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb62c67-6bcf-4d5e-85ce-6c4bb9a25a73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/First_Learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Types/Print_Script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Types/String_Learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Types/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="4cb62c67-6bcf-4d5e-85ce-6c4bb9a25a73" name="Changes" comment="commit changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +105,36 @@
       <option name="presentableId" value="Default" />
       <updated>1719905749795</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit changes">
+      <option name="closed" value="true" />
+      <created>1720456126566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720456126566</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit changes">
+      <option name="closed" value="true" />
+      <created>1720456173465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720456173465</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit changes">
+      <option name="closed" value="true" />
+      <created>1720456353127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720456353127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
