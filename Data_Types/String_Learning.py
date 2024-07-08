@@ -62,3 +62,4 @@ st='Testing 1'
 print("it is alphanumri ",st.isalnum())
 
 
+
