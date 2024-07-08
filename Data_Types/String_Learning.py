@@ -108,9 +108,19 @@ str = "ETL AUTOMATION TESTING"
 # columns='col1,col2,col3'
 # print(columns.split())
 
-print(str)
-# #if step is postive then go frim left to right and if step is postive then end is end-1
-print(str[-12:-7:1])
-#if step values is negative then go from right to left and end is end +1
-print(str[-12:-13:-1])
+# print(str)
+# # #if step is postive then go frim left to right and if step is postive then end is end-1
+# print(str[-12:-7:1])
+# #if step values is negative then go from right to left and end is end +1
+# print(str[-12:-13:-1])
+
+num= 121
+# print('t',type(num))
+# rev_num=num[::-1]
+if str(num)==str(num)[::-1]:
+    print('It is pallindrome')
+else:
+    print('it is not pallindrome')
+
+
 
