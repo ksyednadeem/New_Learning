@@ -88,7 +88,7 @@
 # str='syed nadeem'
 # print(len(str))
 
-str = "ETL AUTOMATION TESTING"
+#str = "ETL AUTOMATION TESTING"
 # print (str[0:6])
 # print(str[6])
 # print(str[4:])
@@ -115,9 +115,10 @@ str = "ETL AUTOMATION TESTING"
 # print(str[-12:-13:-1])
 
 num= 121
-# print('t',type(num))
+print('t',type(num))
 # rev_num=num[::-1]
 if str(num)==str(num)[::-1]:
+#if num==num[::-1]:
     print('It is pallindrome')
 else:
     print('it is not pallindrome')
