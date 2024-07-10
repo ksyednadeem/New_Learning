@@ -52,9 +52,13 @@ ls4 = [1, 2, 3, 4]
 
 ls4.append('ETL')
 print(ls4)
+
+#it will remove values. also if any repeated value to remvoe then it will take first occurance
 ls4.remove(1)
 print(ls4)
 ls4.extend([1, 2, 3, 4, 5, 5, 5, 6, 2, 3 ])
+
+# it will remove all values
 #ls4.clear()
 print(ls4)
 
