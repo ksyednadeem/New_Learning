@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cb62c67-6bcf-4d5e-85ce-6c4bb9a25a73" name="Changes" comment="commit changes">
-      <change afterPath="$PROJECT_DIR$/Data_Types/List_Learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Types/tuple_Learning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Types/List_Learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Types/List_Learning.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +46,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.List_Learning.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Print_Script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.String_Learning.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.List_Learning.executor": "Run",
+    "Python.Print_Script.executor": "Run",
+    "Python.String_Learning.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.tuple_Learning.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="String_Learning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="First_Learning" />

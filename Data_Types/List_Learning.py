@@ -56,13 +56,74 @@ print(ls4)
 #it will remove values. also if any repeated value to remvoe then it will take first occurance
 ls4.remove(1)
 print(ls4)
-ls4.extend([1, 2, 3, 4, 5, 5, 5, 6, 2, 3 ])
+ls4.extend([1, 2, 3, 4, 5, 5, 5, 6, 2, 3])
 
 # it will remove all values
 #ls4.clear()
-print(ls4)
+# print(ls4)
+#
+# ls5 = list(set(ls4))
+# print(ls5)
+# ls5.remove(3)
+# print(ls5)
 
-ls5=list(set(ls4))
-print(ls5)
-ls5.remove(3)
-print(ls5)
+#a=input('enter vauie a')
+# num = input("enter the numnerm")
+# print(" type of a,",type(num))
+# if str(num) == str(num)[::-1]:
+#     print('palindrome')
+# else:
+#     print('not palidnrome')
+
+# a=input("enter")
+# if str(a)==str(a)[::-1]:
+#     print ("pall")
+# else:
+#     print("not")
+
+# str=[1,2,3]
+# str1=str.copy()
+# print("str1 is ",str1)
+#
+# str.reverse()
+# print(str)
+#
+# str.remove(1)
+# print(str)
+
+str1=[1,2,3,4,5,3,23,4,2,4,3,5]
+print("this is str1",str1)
+# str1.sort()
+# print(str1)
+# # str1.append(1)
+#
+# str1.extend([1,2])
+# print(str1)
+
+# str1.insert(0,1)
+# print(str1)
+#
+# str1.insert(3,"ETL")
+# print(str1)
+#
+# del str1[0]
+# print(str1)
+#
+# str1[0]=3
+# print(str1)
+
+# str2=["tpple","banana","mango"]
+# print(str2)
+# print(sorted(str2))
+
+# str3=[9,2,3,4,5,6]
+# str3.sort()
+# print(str3)
+
+Name=['Nadeem','vazu','sariyah','sulaiman']
+print(Name)
+
+Name[1]='Vazida'
+print(Name)
+
+
