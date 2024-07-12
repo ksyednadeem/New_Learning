@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cb62c67-6bcf-4d5e-85ce-6c4bb9a25a73" name="Changes" comment="commit changes">
-      <change afterPath="$PROJECT_DIR$/Data_Types/tuple_Learning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Types/List_Learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Types/List_Learning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If_Statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/If_Statements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.If_Statements.executor": "Debug",
     "Python.List_Learning.executor": "Run",
     "Python.Print_Script.executor": "Run",
     "Python.String_Learning.executor": "Run",
@@ -180,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720612694368</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit changes">
+      <option name="closed" value="true" />
+      <created>1720806044519</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720806044519</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +212,16 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/If_Statements.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/If_Statements.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
