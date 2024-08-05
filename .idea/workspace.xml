@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cb62c67-6bcf-4d5e-85ce-6c4bb9a25a73" name="Changes" comment="commit changes">
+      <change afterPath="$PROJECT_DIR$/Pandas_DF/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas_DF/pandas_part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops_statement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/If_Statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/If_Statements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +54,9 @@
     "Python.List_Learning.executor": "Run",
     "Python.Print_Script.executor": "Run",
     "Python.String_Learning.executor": "Run",
+    "Python.loops_statement.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.pandas_part1.executor": "Run",
     "Python.tuple_Learning.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -215,13 +221,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/If_Statements.py</url>
-          <line>45</line>
-          <option name="timeStamp" value="3" />
+          <line>50</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/If_Statements.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="4" />
+          <line>54</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

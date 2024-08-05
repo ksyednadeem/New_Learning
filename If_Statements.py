@@ -48,11 +48,11 @@ this is for if statements learning
 #     mul=mul*i
 #     print(mul)
 
-# ls=[1,2,3] #[1,4,9]
-# sq=[]
-# for i in ls:
-#     sq.append(i*i)
-#     print (sq)
+ls=[1,2,3] #[1,4,9]
+sq=[]
+for i in ls:
+    sq.append(i*i)
+    print (sq)
 
 # ls=[1,2,3,4,5,6,7,8,9,0]
 #
@@ -67,7 +67,39 @@ this is for if statements learning
 # print(even_num)
 # print(odd_num)
 
-str='ETL Automation'
+# name = input("enter the name")
+#
+# if name == 'nadeem':
+#     print(f'hello {name},good morning')
+# elif name=='vazu':
+#     print(f'hello {name},good morning')
+# else:
+#     print(f'hello guest ')
+    ###################################################################
+# ls =[1,2,3,4,5,6]
+#
+# for i in ls :
+#     print(i)
 
-for i in str:
-    if i.lower()==i
+    #############################################################################
+#dict={1:'sreeni',2:'rahul'}
+#
+# for i in dict:
+#     print(i) # it will print only keys for dict
+
+#################################################
+
+# for i in dict.values():
+#     print(i) # if you want values method while printing
+
+    ###########################################################################
+
+# for i in dict.keys():
+#     print(i) # print only keys
+#
+    ######################################################################
+
+# for i in dict.items():
+#     print(i) # if you want both keys and values print with items method
+
+    ##############################################################
